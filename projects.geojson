@@ -9,8 +9,7 @@
     "city": "Untergruppenbach",
     "zip": "74199",
     "contact": "@nitegate",
-    "round": 1,
-    "color": "#0099C9"
+    "round": 1
    },
    "geometry": {
     "type": "Point",
@@ -28,8 +27,7 @@
     "city": "Berlin",
     "zip": "13357",
     "contact": "fiona.krakenbuerger@okfn.de",
-    "round": 1,
-    "color": "#0099C9"
+    "round": 1
    },
    "geometry": {
     "type": "Point",
@@ -47,8 +45,7 @@
     "city": "Berlin",
     "zip": "",
     "contact": "@yoshuawuyts",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -66,8 +63,7 @@
     "city": "Berlin",
     "zip": "10179",
     "contact": "github.com/guainumbi , @guainumbi_ , github.com/mauditecandela , @mauditecandela",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -85,8 +81,7 @@
     "city": "Braunschweig",
     "zip": "38102",
     "contact": "https://morr.cc/about/",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -104,8 +99,7 @@
     "city": "Berlin",
     "zip": "12049",
     "contact": "hello@fixmyberlin.de, https://twitter.com/fixmyberlin",
-    "round": 1,
-    "color": "#0099C9"
+    "round": 1
    },
    "geometry": {
     "type": "Point",
@@ -123,8 +117,7 @@
     "city": "Cologne",
     "zip": "50825",
     "contact": "mm@koeln.ccc.de",
-    "round": 1,
-    "color": "#0099C9"
+    "round": 1
    },
    "geometry": {
     "type": "Point",
@@ -142,8 +135,7 @@
     "city": "Berlin",
     "zip": "10439",
     "contact": "hello@simonjockers.de",
-    "round": 2,
-    "color": "#ff0080"
+    "round": 2
    },
    "geometry": {
     "type": "Point",
@@ -161,8 +153,7 @@
     "city": "Berlin",
     "zip": "10439",
     "contact": "hello@simonjockers.de",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -180,8 +171,7 @@
     "city": "München",
     "zip": "80689",
     "contact": "info@meine-stadt-transparent.de",
-    "round": 2,
-    "color": "#ff0080"
+    "round": 2
    },
    "geometry": {
     "type": "Point",
@@ -199,8 +189,7 @@
     "city": "Berlin",
     "zip": "",
     "contact": "https://twitter.com/codemirror",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -218,8 +207,7 @@
     "city": "Augsburg",
     "zip": "86159",
     "contact": "contact@techcultivation.org",
-    "round": 1,
-    "color": "#0099C9"
+    "round": 1
    },
    "geometry": {
     "type": "Point",
@@ -237,8 +225,7 @@
     "city": "Berlin",
     "zip": "10439",
     "contact": "hello@simonjockers.com",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -256,8 +243,7 @@
     "city": "Altlandsberg",
     "zip": "",
     "contact": "",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -275,8 +261,7 @@
     "city": "Berlin and Leipzig",
     "zip": "10245",
     "contact": "info@gaipa.org",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -292,16 +277,15 @@
     "projectName": "EyeSkills",
     "link": "www.eyeskills.org",
     "city": "Leipzig",
-    "zip": "4315",
+    "zip": "04315",
     "contact": "eyeskills.org@gmail.com",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     12.3730747,
-     51.3396955
+     12.4100607,
+     51.34400309999999
     ]
    }
   },
@@ -313,8 +297,7 @@
     "city": "Hamburg",
     "zip": "22303",
     "contact": "solveig@codeforhamburg.org",
-    "round": 2,
-    "color": "#ff0080"
+    "round": 2
    },
    "geometry": {
     "type": "Point",
@@ -332,8 +315,7 @@
     "city": "Berlin",
     "zip": "12459",
     "contact": "yvonne.reinhardt@posteo.de",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -351,8 +333,7 @@
     "city": "Berlin",
     "zip": "10249",
     "contact": "twitter.com/bitboxer",
-    "round": 1,
-    "color": "#0099C9"
+    "round": 1
    },
    "geometry": {
     "type": "Point",
@@ -370,8 +351,7 @@
     "city": "Berlin",
     "zip": "",
     "contact": "",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -389,8 +369,7 @@
     "city": "berlin",
     "zip": "",
     "contact": "juga@riseup.net",
-    "round": 1,
-    "color": "#0099C9"
+    "round": 1
    },
    "geometry": {
     "type": "Point",
@@ -408,8 +387,7 @@
     "city": "Berlin",
     "zip": "10247",
     "contact": "onelektra@gmx.net, knut@k-nut.eu",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -427,8 +405,7 @@
     "city": "Berlin",
     "zip": "10407",
     "contact": "NatalieWidmann@gmx.de",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -446,8 +423,7 @@
     "city": "Berlin",
     "zip": "10243",
     "contact": "konfettiapp@gmail.com",
-    "round": 2,
-    "color": "#ff0080"
+    "round": 2
    },
    "geometry": {
     "type": "Point",
@@ -465,8 +441,7 @@
     "city": "Berlin",
     "zip": "12435",
     "contact": "https://twitter.com/BriarApp, goapunk@riseup.net",
-    "round": 3,
-    "color": "#0B1072"
+    "round": 3
    },
    "geometry": {
     "type": "Point",
@@ -484,14 +459,49 @@
     "city": "Karlsruhe",
     "zip": "76133",
     "contact": "felix-prototypefund@felixheld.de",
-    "round": 2,
-    "color": "#ff0080"
+    "round": 2
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
      8.393843,
      49.00674979999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Sexualaufklärung für alle",
+    "link": "",
+    "city": "Leipzig",
+    "zip": "04179",
+    "contact": "neli.blum@j5u.de",
+    "round": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.3166973,
+     51.3486621
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Das eigene Webarchiv",
+    "link": "https://webmemex.org",
+    "city": "Berlin",
+    "zip": "10969",
+    "contact": "gerben@treora.com",
+    "round": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.401651,
+     52.5027059
     ]
    }
   },
@@ -508,8 +518,26 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     9.2058173,
-     49.1401182
+     9.2148545,
+     49.1423079
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "GREMIEN - Pro-/Contra Mitwirkungsforen für mehr Demokratie",
+    "link": "https://gremien.teilt-mit.de",
+    "city": "Ludwigsburg",
+    "zip": "71679",
+    "contact": "mmr@teilt-mit.de",
+    "round": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.141133000000002,
+     48.9065017
     ]
    }
   }
