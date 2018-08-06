@@ -1,0 +1,517 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "GeoHub Online Editor",
+    "link": "https://geohub-client.firebaseapp.com/",
+    "city": "Untergruppenbach",
+    "zip": "74199",
+    "contact": "@nitegate",
+    "round": 1,
+    "color": "#0099C9"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.319695699999999,
+     49.0956093
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Prototype Fund",
+    "link": "https://prototypefund.de",
+    "city": "Berlin",
+    "zip": "13357",
+    "contact": "fiona.krakenbuerger@okfn.de",
+    "round": 1,
+    "color": "#0099C9"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.3786773,
+     52.55047039999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Staying Live",
+    "link": "https://github.com/datrs",
+    "city": "Berlin",
+    "zip": "",
+    "contact": "@yoshuawuyts",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.404954,
+     52.52000659999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Diversity Tickets",
+    "link": "https://diversitytickets.org/",
+    "city": "Berlin",
+    "zip": "10179",
+    "contact": "github.com/guainumbi , @guainumbi_ , github.com/mauditecandela , @mauditecandela",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.414046,
+     52.5121401
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Timelens",
+    "link": "https://timelens.io",
+    "city": "Braunschweig",
+    "zip": "38102",
+    "contact": "https://morr.cc/about/",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.5336105,
+     52.2566754
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "FixMyBerlin",
+    "link": "https://fixmyberlin.de",
+    "city": "Berlin",
+    "zip": "12049",
+    "contact": "hello@fixmyberlin.de, https://twitter.com/fixmyberlin",
+    "round": 1,
+    "color": "#0099C9"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4219765,
+     52.4772906
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "frab",
+    "link": "http://frab.github.io/frab/",
+    "city": "Cologne",
+    "zip": "50825",
+    "contact": "mm@koeln.ccc.de",
+    "round": 1,
+    "color": "#0099C9"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.911026799999999,
+     50.9516638
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Datenguide",
+    "link": "https://datengui.de",
+    "city": "Berlin",
+    "zip": "10439",
+    "contact": "hello@simonjockers.de",
+    "round": 2,
+    "color": "#ff0080"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4123013,
+     52.5517268
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "ErnteTeilen",
+    "link": "ernte-teilen.org",
+    "city": "Berlin",
+    "zip": "10439",
+    "contact": "hello@simonjockers.de",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4123013,
+     52.5517268
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Meine Stadt Transparent",
+    "link": "https://meine-stadt-transparent.de/",
+    "city": "München",
+    "zip": "80689",
+    "contact": "info@meine-stadt-transparent.de",
+    "round": 2,
+    "color": "#ff0080"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.490008,
+     48.13077939999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "CodeMirror",
+    "link": "https://codemirror.net",
+    "city": "Berlin",
+    "zip": "",
+    "contact": "https://twitter.com/codemirror",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.404954,
+     52.52000659999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Center for the Cultivation of Technology",
+    "link": "https://www.techcultivation.org/",
+    "city": "Augsburg",
+    "zip": "86159",
+    "contact": "contact@techcultivation.org",
+    "round": 1,
+    "color": "#0099C9"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.8993532,
+     48.3450075
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Ernte teilen",
+    "link": "https://ernte-teilen.org/",
+    "city": "Berlin",
+    "zip": "10439",
+    "contact": "hello@simonjockers.com",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4123013,
+     52.5517268
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "The Locally Funded Europe",
+    "link": "https://prototypefund.de/project/das-lokal-finanzierte-europa/",
+    "city": "Altlandsberg",
+    "zip": "",
+    "contact": "",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.7269052,
+     52.5641091
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "gaipa",
+    "link": "www.gaipa.org",
+    "city": "Berlin and Leipzig",
+    "zip": "10245",
+    "contact": "info@gaipa.org",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.404954,
+     52.52000659999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "EyeSkills",
+    "link": "www.eyeskills.org",
+    "city": "Leipzig",
+    "zip": "4315",
+    "contact": "eyeskills.org@gmail.com",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.3730747,
+     51.3396955
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Atommüll Atlas",
+    "link": "https://atommuell-atlas.de/",
+    "city": "Hamburg",
+    "zip": "22303",
+    "contact": "solveig@codeforhamburg.org",
+    "round": 2,
+    "color": "#ff0080"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.0260615,
+     53.5910631
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "VoiceGym",
+    "link": "www.voicegym.de",
+    "city": "Berlin",
+    "zip": "12459",
+    "contact": "yvonne.reinhardt@posteo.de",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.528007,
+     52.4609452
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "SignDict",
+    "link": "http://signdict.org",
+    "city": "Berlin",
+    "zip": "10249",
+    "contact": "twitter.com/bitboxer",
+    "round": 1,
+    "color": "#0099C9"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4411786,
+     52.5239492
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "ISEMS",
+    "link": "https://github.com/isems",
+    "city": "Berlin",
+    "zip": "",
+    "contact": "",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.404954,
+     52.52000659999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "dhcpcanon",
+    "link": "https://dhcpap.github.io/",
+    "city": "berlin",
+    "zip": "",
+    "contact": "juga@riseup.net",
+    "round": 1,
+    "color": "#0099C9"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.404954,
+     52.52000659999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Independent Solar Energy Mesh System",
+    "link": "https://github.com/ISEMS",
+    "city": "Berlin",
+    "zip": "10247",
+    "contact": "onelektra@gmx.net, knut@k-nut.eu",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4630849,
+     52.5173449
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "MediaUncovered",
+    "link": "https://github.com/MediaUncovered",
+    "city": "Berlin",
+    "zip": "10407",
+    "contact": "NatalieWidmann@gmx.de",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.456067,
+     52.5344541
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "KonfettiApp",
+    "link": "https://konfetti.app",
+    "city": "Berlin",
+    "zip": "10243",
+    "contact": "konfettiapp@gmail.com",
+    "round": 2,
+    "color": "#ff0080"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4385601,
+     52.5147455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Briar-Repeater",
+    "link": "https://code.briarproject.org/goapunk/briar-repeater",
+    "city": "Berlin",
+    "zip": "12435",
+    "contact": "https://twitter.com/BriarApp, goapunk@riseup.net",
+    "round": 3,
+    "color": "#0B1072"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4697778,
+     52.4839855
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "photonSDI",
+    "link": "http://felixheld.de/projects/photonsdi/",
+    "city": "Karlsruhe",
+    "zip": "76133",
+    "contact": "felix-prototypefund@felixheld.de",
+    "round": 2,
+    "color": "#ff0080"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.393843,
+     49.00674979999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "projectName": "Blaulichtplaner",
+    "link": "https://github.com/Blaulichtplaner/blaulichtplaner-app",
+    "city": "Heilbronn",
+    "zip": "74072",
+    "contact": "as@grundid.de",
+    "round": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.2058173,
+     49.1401182
+    ]
+   }
+  }
+ ]
+}
